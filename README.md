@@ -24,3 +24,15 @@ A prototype resume parser for parsing the CVs
 - Rewards
 - References
 
+## Requirements
+
+- Windows 10 / Linux / Mac
+- Jupyter Notebook
+- Python 
+- Tensorflow
+- Keras
+- Sklearn
+- SpaCy 
+- Pillow
+- Tika Parser
+- docx2txt
