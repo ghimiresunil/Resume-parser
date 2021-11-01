@@ -1,6 +1,28 @@
 # Resume-parser
 A prototype resume parser for parsing the CVs
 
+## Problem Statement 
+
+Different people from different fields and different backgrounds have varied personalities. Similarly their CV writing pattern also fluctuates. They have worked on different types of projects and each of them possess a varied style of writing it down. Thus making each CV unique in itself. 
+
+Some people may work in the HR department. He/She has to crawl hundreds of CVs from the internet. After gathering the CVs, they will call the executives used to summarize the CV, enter specific details into their database and then call the candidate for job consulting. An executive took around 10-15 mins per CV to summarize it and enter the details into the database. My job in this project is to automate this process. 
+
+## Academic Questions
+
+What would be the best approach to parse and extract the useful information from CV and Resume in an effective manner using various NLP algorithms. 
+
+## Project Aims
+
+- To take help of the cutting-edge and latest NLP technology to enhance their business processes.
+- To extract the required information about candidates without having to go through each and every resume manually,  
+
+## Project Objectives
+
+- For information extraction, NLP model will be configured and reconfigured
+- The system will replace slow and expensive human processing of resumes with extremely fast and cost-effective software
+- By uploading CV/Resume of candidate in our system, it will convert the unstructured data into a structured form.
+- The system will automatically segregates the information into various fields and parameters like contact information, educational qualification, work experience, skills, achievements, professional certifications to quickly help you identify the most relevant resumes based on criteria.
+
 ## Features
 
 - Extract Name
